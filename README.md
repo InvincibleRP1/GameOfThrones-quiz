@@ -14,6 +14,6 @@ Click on the link, hit the run button and then you're all set to play the quiz. 
 
 You get +1 for each right answer and -1 for every wrong one.
 
-#Tech Stack Used
+# Tech Stack Used
 
 Built using JavaScript
